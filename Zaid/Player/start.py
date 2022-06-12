@@ -8,7 +8,8 @@ from config import START_PIC, UPDATES_CHANNEL, GROUP_SUPPORT
 
 
 ALIVE_PIC = START_PIC
-HOME_TEXT = "👋🏻 **Hi Sir [{}](tg://user?id={})** \n\n🤖 Im **Zaid Vc Player**. \n**I Can Stream Lives, Radios, Raid, Vc Raid, YouTube Videos & Telegram Video Files On Voice Chat Of Telegram Groups**"
+HOME_TEXT = "Hᴇʏ, ᴍʏ ɴᴀᴍᴇ ɪs мαяк ✗.\n\nɪ'ᴍ ᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀᴇᴀᴍɪɴɢ ʙᴏᴛ ᴡɪᴛʜ sᴏᴍᴇ ᴜsᴇꜰᴜʟ ꜰᴇᴀᴛᴜʀᴇs. ⭐ Pʀᴇsᴇɴᴛᴇᴅ Bʏ [Tᴇᴀᴍ мαяк] sᴜᴘᴘᴏʀᴛɪɴɢ ᴘʟᴀᴛꜰᴏʀᴍs ʟɪᴋᴇ ʏᴏᴜᴛᴜʙᴇ, sᴘᴏᴛɪꜰʏ, ʀᴇssᴏ, ᴀᴘᴘʟᴇᴍᴜsɪᴄ , sᴏᴜɴᴅᴄʟᴏᴜᴅ ᴇᴛᴄ.\n\nꜰᴇᴇʟ ꜰʀᴇᴇ ᴛᴏ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs!)."
+"
 HELP_TEXT = """
 🏷️ **Setup Guide** :
 
